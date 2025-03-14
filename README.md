@@ -4,4 +4,4 @@
  
 ## 2025
 
-The update from 2025: I did not continue due to other commitments.
+The update from 2025: I did not continue due to other commitments (such as focusing on other projects).
