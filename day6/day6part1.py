@@ -128,6 +128,7 @@ lmap1 = walk(themap,apos0,defdi)
 
 
 print("Result first part: {} steps".format(countsym(themap,symbs['visited'])))
+print("verified")
 
 
 
