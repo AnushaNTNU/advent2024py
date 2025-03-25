@@ -7,3 +7,4 @@
 The update from 2025: I did not continue due to other commitments (focusing on other projects).
 
 ## crash course on git
+## Teaching Sandeep
